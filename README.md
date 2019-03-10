@@ -112,12 +112,12 @@ $ python3 autoencoder.py [-h]
 
 #### __c. Apply denoise and dropout mechanism, and visualize the reconstruction results and the filters.__ 
 * __denoise:True__
-##### __dropout rate=0.3__
+##### __dropout rate=0.3__ </br>
 
-* __reconstruction results__
+* __reconstruction results__ </br>
 ![](https://i.imgur.com/pwx6GOZ.png)
 
-* __filters__
+* __filters__ </br>
 ![](https://i.imgur.com/8smoCif.png)
 
 * __loss__</br>
@@ -142,13 +142,13 @@ __118.84398303229302 </br>
 92.16426406065743__
 
 
-##### __dropout rate=0.5__
+##### __dropout rate=0.5__ </br>
 
-* __reconstruction results__
+* __reconstruction results__ </br>
 ![](https://i.imgur.com/kdCQWuO.png)
 
 
-* __filters__
+* __filters__ </br>
 ![](https://i.imgur.com/f1lQefP.png)
 
 * __loss__</br>
@@ -173,13 +173,13 @@ __134.10843117407825 </br>
 102.14564543005211__
 
 
-##### __dropout rate=0.7__
+##### __dropout rate=0.7__ </br>
 
-* __reconstruction results__
+* __reconstruction results__ </br>
 ![](https://i.imgur.com/XueMjWV.png)
 
 
-* __filters__
+* __filters__ </br>
 ![](https://i.imgur.com/lPi55Eq.png)
 
 * __loss:__</br>
