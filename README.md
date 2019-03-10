@@ -101,12 +101,12 @@ $ python3 autoencoder.py [-h]
 ![](https://i.imgur.com/FaKcpim.png)
 
 
-#### __b. Visualize the reconstruction results and the filters.__ 
+#### __b. Visualize the reconstruction results and the filters.__  </br>
 
-* __reconstruction results__
+* __reconstruction results__ </br>
 ![](https://i.imgur.com/EKjHGe7.png)
 
-* __filters__
+* __filters__ </br>
 ![](https://i.imgur.com/rt7Pcvp.png)
 
 
