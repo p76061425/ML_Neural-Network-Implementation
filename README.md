@@ -74,9 +74,10 @@ $ python3 autoencoder.py [-h]
 |Hidden Layer 2| 202 |  ReLU   |
 |Output Layer  | 10  | Softmax |
 
-
+* __accuracy__ </br>
 ![](https://i.imgur.com/knAn5V3.png)
 ![](https://i.imgur.com/Ef7AyXA.png)
+* __loss__ </br>
 ![](https://i.imgur.com/3Yz1wr0.png)
 ![](https://i.imgur.com/gh34EKJ.png)
 
