@@ -48,7 +48,7 @@ $ python3 autoencoder.py [-h]
 * __epoch = 20__
 
 
-#### __(a) wide hidden layer__
+#### __(a) wide hidden layer__ </br>
 
 |Wide Model | Neurons | Activation |
 |---        |---      |---         |
@@ -57,15 +57,15 @@ $ python3 autoencoder.py [-h]
 |Output Layer | 10  | Softmax |
 
 
-* __accuracy__
+* __accuracy__ </br>
 ![](https://i.imgur.com/q0VoOUX.png)
 ![](https://i.imgur.com/t0Q6SZh.png)
-* __loss__
+* __loss__ </br>
 ![](https://i.imgur.com/IvgZiGz.png)
 ![](https://i.imgur.com/9zVQKzk.png)
 
 
-#### __(b) deep hidden layer__
+#### __(b) deep hidden layer__ </br>
 
 |Wide Model | Neurons | Activation |
 |---        |---      |---         |
